@@ -7,9 +7,9 @@ I'm Web Developer graduated from Holberton School. With a year of experience in 
 ### follow me on my social networks:
 
 _Personal_
-* :floppy_disk: Sometimes I like to write about tec. **[Medium](https://medium.com/@felipe.garcia0191)** :v:
-* :floppy_disk: My Web site **[AndresCode](https://andrescode.vercel.app/)** :v:
-* :floppy_disk: Photos, tips and memes **[Twitter](https://twitter.com/andres0191)** :v:
-* :floppy_disk: Open to job offers x1 **[Linkedin](https://www.linkedin.com/in/anfegar/)** :v:
-* :floppy_disk: Open to job offers x2 **[Torre](https://bio.torre.co/en/andresfelipegarciarendon)** v:
+* :floppy_disk: Sometimes I like to write about tec. **[Medium](https://medium.com/@felipe.garcia0191)** :grin:
+* :floppy_disk: My Web site **[AndresCode](https://andrescode.vercel.app/)** :sunglasses:
+* :floppy_disk: Photos, tips and memes **[Twitter](https://twitter.com/andres0191)** :yum:
+* :floppy_disk: Open to job offers x1 **[Linkedin](https://www.linkedin.com/in/anfegar/)** :point_left:
+* :floppy_disk: Open to job offers x2 **[Torre](https://bio.torre.co/en/andresfelipegarciarendon)** :point_left:
 * :floppy_disk: Networking and belonging to the community is important! **[Dev](https://dev.to/andres0191)** :v:
