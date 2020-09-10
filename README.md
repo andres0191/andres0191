@@ -13,3 +13,5 @@ _Personal_
 * :floppy_disk: Open to job offers x1 **[Linkedin](https://www.linkedin.com/in/anfegar/)** :point_left:
 * :floppy_disk: Open to job offers x2 **[Torre](https://bio.torre.co/en/andresfelipegarciarendon)** :point_left:
 * :floppy_disk: Networking and belonging to the community is important! **[Dev](https://dev.to/andres0191)** :v:
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=andres0191" alt="Andres Garcia"/></p>
